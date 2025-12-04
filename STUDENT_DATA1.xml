@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+  <student>
+    <id>001</id>
+    <name>Villarias, John Mark</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+
+  <student>
+    <id>002</id>
+    <name>Manlangit, Lhancel</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+
+  <student>
+    <id>003</id>
+    <name>Gabelo, Zhandro Rhuzzel</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  
+   <student>
+    <id>004</id>
+    <name>Maturan, Michael Fredrick</name>
+    <course>BSIT</course>
+    <year>4</year>
+  </student>
+ </students>
